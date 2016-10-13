@@ -8,7 +8,7 @@ public class Example6 {
 		int counterP = 0;
 		int counterNe = 0;
 		int counterNr = 0;
-
+// //
 		for (int i = 0; i < arr.length; i++) {
 			System.out.println("Enter " + (i + 1) + ". value: ");
 			arr[i] = sc.nextInt();

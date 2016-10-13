@@ -3,7 +3,7 @@ public class Example5 {
 
 	
 	public static void main(String[] args) {
-		
+		//test
 		Scanner sc = new Scanner(System.in);
 		int[] arr = new int[5];
 		int input;
